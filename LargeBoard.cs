@@ -24,7 +24,6 @@ namespace Tic_Tac_Game
             this.Depth = depth;
             BoardProcessor boardProcessor = new BoardProcessor();
 
-
             NW = boardProcessor.CreateBoard(depth - 1);
             NC = boardProcessor.CreateBoard(depth - 1);
             NE = boardProcessor.CreateBoard(depth - 1);
