@@ -17,6 +17,5 @@ namespace Tic_Tac_Game
                 return new LargeBoard(depth); 
             }
         }
-
     }
 }
