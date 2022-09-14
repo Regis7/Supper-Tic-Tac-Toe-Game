@@ -13,7 +13,6 @@ namespace Tic_Tac_Game
 
         public Play(List<string> listofMoves)
         {
-
             int depth = GetDepth(listofMoves);
             board = new LargeBoard(depth);
 
