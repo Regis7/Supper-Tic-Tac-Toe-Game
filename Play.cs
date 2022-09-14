@@ -6,7 +6,6 @@ namespace Tic_Tac_Game
 {
     public class Play
     {
-
         private IBox board;
         private string[] players = new string[2] { "x", "o" };
         private List<string> X_playerMoves = new List<string>();
