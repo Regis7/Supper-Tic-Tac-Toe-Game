@@ -12,7 +12,7 @@ boards.
 In the game represented in Figure 2a, we observe that X has won three small
 boards and thereby gained three X:es in the large board. The second player
 (O) have, however, merely won a single of the small boards and have hence
-only gained a single O in the large board.
+only gained a single O in the large board
 
 Since X has won three small boards that together constitute three-in-a-row
 in the large board, X is the winner of this match.
