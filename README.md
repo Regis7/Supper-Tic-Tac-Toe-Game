@@ -100,4 +100,4 @@ case of syntactically invalid input, missing arguments, and other runtime error
 list in Table 5. Design patterns not listed in Table 5 will not count
 towards the total.
 • The program must contain at least one automated test that ensures
-that the input example (see Figure 2) yields the expected output.
+that the input example (see Figure 2) yields the expected output
