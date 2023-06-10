@@ -1,4 +1,4 @@
-# Supper-Tic-Tac-Toe-Game.
+# Supper-Tic-Tac-Toe-Game
 
 **Problem description **
 
