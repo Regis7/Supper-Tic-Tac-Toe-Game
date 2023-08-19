@@ -4,7 +4,7 @@
 
 An interesting variation of the classic game tic-tac-toe is known as super,
 strategic, or meta tic-tac-toe. In this "upscaled" version, each tic-tac-toe
-board serves as a square in a larger tic-tac-toe board. When a player, say X,
+the board serves as a square in a larger tic-tac-toe board. When a player, say X,
 wins a full "small" board, this player gets to play the corresponding square
 in the "larger" board. Consider Figure 2a and let us refer to the large 3x3
 grid as a "large" board and each of the 9 individual 3x3 grids as the "small"
